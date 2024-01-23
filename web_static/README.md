@@ -1,7 +1,47 @@
-0x00.AirBnB Clone - The Console Functionalities of this command interpreter: Create a new object (ex: a new User or a new Place) Retrieve an object from a file, a database etc... Do operations on objects (count, compute stats, etc...) Update attributes of an object Destroy an object Environment This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
-Installation Clone this repository: git clone "https://github.com/helenkilolo/AirBnB_clone.git" Access AirBnb directory: cd AirBnB_clone Run hbnb(interactively): ./console and enter command Run hbnb(non-interactively): echo "" | ./console.py Description This team project is part of alx Software Engineer program. It's the first step towards building a first full web application: an AirBnB clone. This first step consists of a custom command-line interface for data management,and the base classes for the storage of this data.
+# 0x01. AirBnB clone - Web static
 
-Tests All the code is tested with the unittest module. The test for the classes are inthetest_models folder.
+## Learning Objectives:bulb:
+What you should learn from this project:
 
-Author Helen kilolo - 
+* What is HTML
+* How to create an HTML page
+* What is a markup language
+* What is the DOM
+* What is an element / tag
+* What is an attribute
+* How does the browser load a webpage
+* What is CSS
+* How to add style to an element
+* What is a class
+* What is a selector
+* How to compute CSS Specificity Value
+* What are Box properties in CSS
+
+---
+
+### [0. Inline styling](./0-index.html)
+* Write an HTML page that displays a header and a footer.
+
+
+### [1. Head styling](./1-index.html)
+* Write an HTML page that displays a header and a footer by using the style tag in the head tag (same as 0-index.html)
+
+
+### [2. CSS files](./2-index.html)
+* Write an HTML page that displays a header and a footer by using CSS files (same as 1-index.html)
+
+
+### [3. Zoning done!](./3-index.html)
+* Write an HTML page that displays a header and footer by using CSS files (same as 2-index.html)
+
+
+### [4. Search!](./4-index.html)
+* Write an HTML page that displays a header, footer and a filters box with a search button.
+
+
+### [5. More filters](./5-index.html)
+* Write an HTML page that displays a header, footer and a filters box.
+
+
+### [6. It's (h)over](./6-index.html)
